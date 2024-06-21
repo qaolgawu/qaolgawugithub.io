@@ -1,3 +1,19 @@
+Application name - QAOLGAWUGITHUB.io
+
+This application is a demonstration for a shop, with 
+items, which you can add to the car add or delete
+from the cart.
+
+Technologies used:
+- React single page application
+
+
+Deployment
+https://main--nimble-florentine-627bce.netlify.app/
+
+
+This app was bootstraped based on the template provided by create-react-app
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
